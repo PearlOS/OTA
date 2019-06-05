@@ -1,10 +1,13 @@
-Changelog : 
-
-- May Patch
-- Added 4g icon toggle
-- Added VoLTE toggle 
-- Added Q battery icon
-- Added RSSNR ignore toggle
-- Added notch support
-- Added Ticker
-- Added QS styles
+ * frameworks/base
+1c929ebf  base: volume key music control [1/2]  [maxwen]
+5ac437e  Powermenu Torch option [1/2]  [LorDClockaN]
+225564e  SystemUI: Add tile to show volume panel  [swapsCAPS]
+db4abb4  More surprises for users  [Dixzz]
+0f71d06  Ignore vendor overlays that must be on system/overlay  [Henrique Silva]
+aa03438  base: Volume dialog timeout (1/2)  [Davor Bertovic]
+9525c3f  Volume panel: Fix incorrect positioning  [a.derendyaev]
+e741d70  Volume panel: Add notification volume row if unlinked  [Anushek Prasal]
+d637cee  Code improvements for expanded volume panel  [Giuseppe Maggio]
+1ca6a15  Volume panel: Visual improvements  [Anushek Prasal]
+5677a6a  base: Redo expanded volume panel for 9.x  [HrX03]
+ed1f5a5  Volume panel: Do the same with less  [Alex Cruz]
